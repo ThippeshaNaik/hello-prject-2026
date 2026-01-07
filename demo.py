@@ -4,7 +4,7 @@
 
 #print(a*b*c)
 
-age = 21
+age = 20
 if age >= 21:
     print("eligible for voting") 
 else:

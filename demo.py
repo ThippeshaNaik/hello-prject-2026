@@ -9,3 +9,11 @@ if age >= 21:
     print("eligible for voting") 
 else:
     print("not eligible for voting")
+
+
+l = 10
+b = 20
+h = 30 
+a = l*b*h
+print(a)
+
